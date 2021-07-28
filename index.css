@@ -1,8 +1,8 @@
 body{
-    background: blue;
+    background: green;
     color: aliceblue;
 }
 div{
-    width: 100px;
-    font-style: italic;
+    width: 500px;
+    font-style: oblique;
 }
